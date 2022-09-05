@@ -1,6 +1,6 @@
 # new_weather
 
-A new Flutter project.
+A new Flutter project for detecting local weather.
 
 ## Getting Started
 
