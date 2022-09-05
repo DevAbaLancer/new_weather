@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371511883963",
+    "project_id": "newweather-199b7",
+    "storage_bucket": "newweather-199b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371511883963:android:1f979cde16dbd3159d119e",
+        "android_client_info": {
+          "package_name": "com.example.new_weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371511883963-9p6ca1do0qd7cspv8o8uk49jkr9u1com.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl_COxE4wwqWNJsWXyU62nyeuTjCDSsJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371511883963-9p6ca1do0qd7cspv8o8uk49jkr9u1com.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
